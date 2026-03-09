@@ -46,7 +46,7 @@ Understand how your startup is growing with detailed charts:
 
 All charts are **interactive and animated**.
 
----
+
 
 ## 🧠 AI Insights Panel
 
